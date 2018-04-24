@@ -1,0 +1,6 @@
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe.config
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.exe
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\bin\Debug\EvenOdd.pdb
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\obj\Debug\EvenOdd.csprojResolveAssemblyReference.cache
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\obj\Debug\EvenOdd.exe
+C:\ÖvÖ\ÖÖvÖÖ Projects\EvenOdd\EvenOdd\obj\Debug\EvenOdd.pdb
